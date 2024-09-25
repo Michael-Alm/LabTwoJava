@@ -1,5 +1,6 @@
 Possible Error: 
 1. If you get the warning - JDK "openjdk-23" is missing - You should have an option to download the jdk and once it is done the program should be able to run :D
+2. There was a legal warning that popped up when testing on my laptop from the beginning of the semster. I think this is because when I installed InteliJ on my current laptop a new JDK was available for download. It should hopefully not affect the program.
 
 Runable Files:
 1. EventTester.java - runs part one of lab 2
